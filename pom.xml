@@ -78,6 +78,5 @@
             </executions>
         </plugin>
     </plugins>
-  </build>
-  <--webhook project -->
+  </build
 </project>
