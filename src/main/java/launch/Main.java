@@ -24,7 +24,5 @@ public class Main {
 
         tomcat.start();
         tomcat.getServer().await();
-        basic java coding
-            this java class
     }
 }
